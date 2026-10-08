@@ -1,0 +1,12 @@
+spark_env311/
+.venv/
+venv/
+
+.ipynb_checkpoints/
+
+warehouse/
+metastore_db/
+
+__pycache__/
+*.pyc
+*.log
